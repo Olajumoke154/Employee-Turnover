@@ -10,4 +10,6 @@ Employee Turnover and Demographics Overview
 - Gender Distribution: Comparative analysis of exit rates between male and female staff.
 - Marital Status Analysis: Examination of exit trends based on marital status.
 - Interactive Filters: Slicers for dynamic data filtering to enhance interactivity.
+- ![image](https://github.com/user-attachments/assets/2a1659c9-2e0c-4dae-9de2-9bb36acbbe5e)
+
   
